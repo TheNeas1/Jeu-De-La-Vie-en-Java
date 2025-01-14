@@ -38,7 +38,7 @@ Installation
 
 2. Compilez et exécutez le projet avec les commandes suivantes :
 
- - cd JEUDELAVIEJAVA
+ - cd Jeu-De-La-Vie-en-Java
  - javac Main.java
  - java Main
 
@@ -111,13 +111,4 @@ Motifs : Contient plusieurs motifs pré-définis (Block, Frog, Glider, etc.).
 JeuDeLaVie : Contient la logique du jeu, gère l'évolution de la grille.
 Main : Classe de démarrage qui gère l'interaction avec l'utilisateur et lance l'évolution du jeu.
 
-Exemple de structure de fichiers
-jeu-de-la-vie-conway/
-│
-├── JeuDeLaVie.java
-├── Cellule.java
-├── Motif.java
-├── Motifs.java
-├── Main.java
-└── README.md
 
