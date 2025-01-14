@@ -17,14 +17,14 @@ Une cellule morte avec exactement 3 voisins vivants devient vivante (reproductio
 
 # Fonctionnalités
 
-Initialisation de la grille : Vous pouvez spécifier la taille de la grille (largeur et hauteur) ainsi que le nombre de cellules vivantes.
-Insertion de motifs : Vous pouvez insérer des motifs pré-définis tels que :
-Block : Un motif stable (immobile).
-Frog : Un motif qui évolue avant de se stabiliser.
-Glider : Un motif qui se déplace à travers la grille.
-Canon de Gosper : Un motif complexe qui génère un "glider" infini.
-Evolution du jeu : Le jeu évolue génération par génération selon les règles de Conway.
-Affichage du jeu : Après chaque génération, l'état de la grille est affiché dans la console.
+1. Initialisation de la grille : Vous pouvez spécifier la taille de la grille (largeur et hauteur) ainsi que le nombre de cellules vivantes.
+2. Insertion de motifs : Vous pouvez insérer des motifs pré-définis tels que :
+ - Block : Un motif stable (immobile).
+ - Frog : Un motif qui évolue avant de se stabiliser.
+ - Glider : Un motif qui se déplace à travers la grille.
+ - Canon de Gosper : Un motif complexe qui génère un "glider" infini.
+3. Evolution du jeu : Le jeu évolue génération par génération selon les règles de Conway.
+4. Affichage du jeu : Après chaque génération, l'état de la grille est affiché dans la console.
 
 # Prérequis
 
